@@ -1,0 +1,6 @@
+framework module Pods_AirProducer {
+  umbrella header "Pods-AirProducer-umbrella.h"
+
+  export *
+  module * { export * }
+}
